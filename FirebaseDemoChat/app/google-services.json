@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "795200198177",
+    "project_id": "fir-demochat-1d0aa",
+    "storage_bucket": "fir-demochat-1d0aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795200198177:android:b6a84bb27852e7a2513560",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795200198177-kjdj648bni409a8re1h6m44ctq1piciv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasedemochat",
+            "certificate_hash": "f4b0af5afd49644380a3e8a0534ca30fc84be269"
+          }
+        },
+        {
+          "client_id": "795200198177-fkfb198o8stc3vebo43kf74t4hsnf0hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs7W1sBIt1tdhqFO1zhHz29KUOEs60dMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795200198177-fkfb198o8stc3vebo43kf74t4hsnf0hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
